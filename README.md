@@ -1,1 +1,5 @@
 # JUST3
+
+LISTEN.
+VALUE.
+RESPECT.
